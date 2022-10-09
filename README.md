@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://secretmag.ru/thumb/1780x0/filters:quality(75):no_upscale()/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53.gif" align="center" style="width: 100%" />
+<img src="[https://secretmag.ru/thumb/1780x0/filters:quality(75):no_upscale()/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsecretmag.ru%2Fstories%2Fgemorroi-v-30-insult-v-40-za-chto-programmisty-poluchayut-sotni-tysyach-rublei.htm&psig=AOvVaw1yyAUM0J0c8ixr3vwgCcib&ust=1665432444622000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjL58D50_oCFQAAAAAdAAAAABAX).gif" align="center" style="width: 100%" />
 </div>  
   
 
