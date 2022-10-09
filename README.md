@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif" align="right" style="width: 400px" />
+<img src="https://media.moddb.com/images/articles/1/225/224437/auto/cogmind_manual_hacki.gif" align="right" style="width: 400px" />
 </div>  
   
 
