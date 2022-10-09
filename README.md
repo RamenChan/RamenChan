@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://secretmag.ru/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53.gif" align="center" style="width: 100%" />
+<img src="https://secretmag.ru/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53.gif" align="right" style="width: 400px" />
 </div>  
   
 
-### <div align="center">I'm Anıl Emre, a full-time full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="left">I'm Anıl Emre, a full-time full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 
