@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://secretmag.ru/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53.gif" align="right" style="width: 400px" />
+<img src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif" align="right" style="width: 400px" />
 </div>  
   
 
